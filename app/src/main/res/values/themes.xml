@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DzigboHope" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#C9A84C</item>
+        <item name="colorPrimaryVariant">#8A6520</item>
+        <item name="colorOnPrimary">#ffffff</item>
+        <item name="colorSecondary">#1A5C3A</item>
+        <item name="android:windowBackground">#0A0A0F</item>
+        <item name="android:statusBarColor">#0A0A0F</item>
+        <item name="android:navigationBarColor">#13131A</item>
+    </style>
+
+    <style name="Theme.DzigboHope.Splash" parent="Theme.DzigboHope">
+        <item name="android:windowBackground">#0A0A0F</item>
+        <item name="android:statusBarColor">#0A0A0F</item>
+    </style>
+</resources>
